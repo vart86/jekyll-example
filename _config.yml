@@ -19,3 +19,5 @@ github_username:  vart86
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
